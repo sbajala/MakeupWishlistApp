@@ -1,8 +1,12 @@
 # Makeup Wishlist App
 GoLang application that allows users to add or remove makeup items to their wishlist.
 
+## Programming language and technologies used
+- GoLang
+- Eclipse
+- SQLite
+
 ## Description
-This project was developed using Eclipse IDE, SQLite for data persistence, and cookies to personalize the wishlist title.<br/>
 Users are able to do the following:
 - Empty wishlist
 - Add an item to their wishlist
