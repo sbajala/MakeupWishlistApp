@@ -14,5 +14,5 @@ For this project, I focused on using cookies in addition to my program. So, if t
 the title will be changed accordingly.
 
 ## Credits
-This project used icons from [Noun Project](https://thenounproject.com).
+This project used icons from [Noun Project](https://thenounproject.com). <br/>
 Created by Sharmaine Bajala
